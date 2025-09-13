@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
+
+# Sensitive files
+pulsebase-64987db2e79f.json
+
+# macOS 系统文件
+.DS_Store
+
+.ipynb_checkpoints/

@@ -1,0 +1,26 @@
+From 18d631e99235bb9c57b21261db2b885f55657aab Mon Sep 17 00:00:00 2001
+From: LEEUNGG <qq1109906812@gmail.com>
+Date: Sat, 13 Sep 2025 14:09:24 +0800
+Subject: [PATCH 2/2] latest update
+
+---
+ .gitignore | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/.gitignore b/.gitignore
+index 71ae4d5..ed38bde 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -12,6 +12,9 @@ wheels/
+ # Environment variables
+ .env
+ 
++# Sensitive files
++pulsebase-64987db2e79f.json
++
+ # macOS 系统文件
+ .DS_Store
+ 
+-- 
+2.49.0
+
